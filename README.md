@@ -1,6 +1,12 @@
-# TestingAplicaciones-grupo-TPO
+# Testing de aplicaciones: Trabajo Practico Obligatorio
 
-Garcia Matias,
-Peñalba Valentin,
-Faure Lucas,
-Oropeza Sergio
+# Nombre del equipo
+
+-
+
+# Integrantes
+
+- Garcia Matias
+- Peñalba Valentin
+- Faure Lucas
+- Oropeza Sergio
