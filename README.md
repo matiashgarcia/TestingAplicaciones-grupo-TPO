@@ -2,7 +2,7 @@
 
 # Nombre del equipo
 
-- Alfa
+- Los Alfa
 
 # Integrantes
 
