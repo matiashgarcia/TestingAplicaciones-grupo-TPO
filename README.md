@@ -7,6 +7,6 @@
 # Integrantes
 
 - Garcia Matias
-- Peñalba Valentin
+- Peñalva Valentin
 - Faure Lucas
 - Oropeza Sergio
