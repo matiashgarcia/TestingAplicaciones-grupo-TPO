@@ -1,0 +1,8 @@
+1.a) Consideramos que los casos de prueba creados, van a brindar, en mayor medida, la confianza necesaria para cumplir con los casos de aceptacion dados. Es decir, dentro de los requisitos definidos, estos casos van a cubrir correctamente la mayor parte, despues si esos criterios son insuficientes o no estan muy claros es otra discusion.
+
+1.b) Hemos tenido que asumir durante el desarrollo de los CU varios comportamientos de la aplicacion, ya que no estaban definidos, eran confusos o se contradecian.
+
+1.c) La dificultad principal que encontramos durante la creacion de los CU fue no poder visibilizar claramente el funcionamiento de algunos criterios, ya que en los mock ups aparecian unas cosas y en las descripciones de los requerimientos otras.
+
+2) La historia de usuario que mas nos costo fue la del carrito de compras, porque al no haber mock ups y los criterios estar definidos como oraciones sueltas, no podiamos entender bien el paso a paso de como deberia funcionar realmente el carrito.
+La historia de usuario mas clara de entender creeemos que fue la de inicio de sesion. Mas alla de que habia bastante criterios, estaban claros y se correspondian con lo que uno podria pensar que se necesitaba validar.
