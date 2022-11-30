@@ -22,6 +22,8 @@ class TestCheckpassword():
     self.driver.get("http://127.0.0.1:5000/")
     self.driver.set_window_size(1900, 1060)
     self.driver.find_element(By.LINK_TEXT, "Sign In").click()
+    
+    # Assert password is masked
     check_pass = self.driver.find_element(By.XPATH, "//*[@type='password']")
     assert check_pass.is_displayed
   
